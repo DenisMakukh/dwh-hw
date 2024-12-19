@@ -4,3 +4,4 @@
 * src_stg.sql - код загрузки источников (src) и формирования слоя staging
 * dds.sql - код формирования слоя data detail store
 * mart.sql - код формирования финальной витрины
+* get_data.ipynb - преобработка данных при помощи pandas
